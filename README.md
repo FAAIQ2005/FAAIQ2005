@@ -1,4 +1,4 @@
-# Mohamed Faaiq
+# MR.FAAIQ
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Aspiring+Data+Architect;Software+%26+Web+Development;Learning.+Building.+Innovating." alt="Animated introduction" />
